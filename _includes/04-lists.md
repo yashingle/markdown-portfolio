@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. My name is Yash :sparkles:
+2. I live in Mumbai
+   1. I study at NIT
